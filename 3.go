@@ -22,5 +22,5 @@ func findFirstStringInBracket(str string) string {
 }
 
 func main() {
-	fmt.Println(findFirstStringInBracket("eee(ef(fff) wowowowwwwww"))
+	fmt.Println(findFirstStringInBracket("Ini tidak muncul ( ini muncul ) ini tidak muncul"))
 }
